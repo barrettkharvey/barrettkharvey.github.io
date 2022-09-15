@@ -21,16 +21,19 @@ header img{
     float:left;
     margin-right: 1em;
 }
-h1{
-    color:rgb(128,0,0);
+.shadow{
     text-shadow: 2px 2px 2px rgb(128,0,0);
 }
-h2{
-    color:rgb(128,0,0);
-    text-shadow: 2px 2px 2px rgb(128,0,0);
-}
+
 main {clear: left;}
 main h3{
     margin-top: 3em;
     font-size: 105%;
+}
+#list{
+    line-height: 1.5em;
+}
+p.copyright{
+    text-align:center;
+    font-size: 80%
 }
