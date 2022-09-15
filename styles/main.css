@@ -24,3 +24,6 @@ header img{
 shadow h1{
     text-shadow: 2px, 2px, 2px, rgb(128,0,0)
 }
+clear body{
+    clear:left;
+}
