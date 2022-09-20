@@ -66,3 +66,6 @@ div.contact{
     box-shadow: 3px 3px 4px 4px red;
     padding: 1em;
 }
+header img{
+    margin-left: auto;
+}
