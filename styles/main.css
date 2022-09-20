@@ -31,6 +31,7 @@ header h2{
 header img{
     float:left;
     margin-right: 1em;
+    margin-left: 2m;
 }
 .shadow{
     text-shadow: 2px 2px 2px rgb(128,0,0);
@@ -65,7 +66,4 @@ div.contact{
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
     padding: 1em;
-}
-header img{
-    margin-left: 2em;
 }
