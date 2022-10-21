@@ -37,14 +37,14 @@ body{
 article{
     clear: left;
     width: 75%;
-    float: right;
+    float: left;
     column-count: 3;
     column-rule: 2px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
 }
 article h2{
-    column-span: all;
+    
 }
 article p::first-letter{
     font-size: 3em;
