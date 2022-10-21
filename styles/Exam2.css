@@ -44,7 +44,7 @@ article{
     margin-left: 2em;
 }
 article h2{
-    
+    column-span:none;
 }
 article p::first-letter{
     font-size: 3em;
