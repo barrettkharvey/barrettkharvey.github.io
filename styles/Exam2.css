@@ -19,7 +19,9 @@ html{
     #nav_menu ul li a.lastitem { border-right: none; }	
     #nav_menu ul li a.current { color: yellow; }
         
-
+nav{
+    border-top: 2px solid blue;
+}
 body{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 100%;
