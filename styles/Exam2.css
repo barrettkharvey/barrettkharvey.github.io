@@ -46,6 +46,9 @@ article{
 article h2{
     column-span:none;
 }
+h2 .id {
+    color: blue;
+}
 article p::first-letter{
     font-size: 3em;
     font-weight: bold;
