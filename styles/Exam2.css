@@ -50,8 +50,6 @@ article h1{
 }
 article h2{
     column-span:none;
-}
-article h2 .id {
     color: blue;
 }
 article p::first-letter{
