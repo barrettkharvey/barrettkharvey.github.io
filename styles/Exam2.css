@@ -15,7 +15,7 @@ html{
         color: white;
         font-weight: bold;
         border-bottom: 2px solid blue;
-        clear:both;}
+        clear:none;}
     #nav_menu ul li a.lastitem { border-right: none; }	
     #nav_menu ul li a.current { color: yellow; }
 
@@ -63,7 +63,7 @@ aside{
     width: 20%;
     float: right;
     background-color: rgb(103, 193, 223);
-    padding: 1.5em;
+    padding: 1em;
     border: 3px solid blue;
 }
 footer{
