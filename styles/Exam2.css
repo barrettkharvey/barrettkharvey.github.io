@@ -40,6 +40,7 @@ article{
     column-count: 3;
     column-rule: 2px dotted blue;
     column-gap: 2em;
+    padding: 1em;
     margin-left: 2em;
 }
 article h1{
