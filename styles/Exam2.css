@@ -15,7 +15,7 @@ html{
         color: white;
         font-weight: bold;
         clear:both;
-        border-bottom: 2px solid blue;
+        border-bottom: 4px solid blue;
         }
     #nav_menu ul li a.lastitem { border-right: none; }	
     #nav_menu ul li a.current { color: yellow; }
