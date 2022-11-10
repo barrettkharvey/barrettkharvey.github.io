@@ -53,3 +53,12 @@ table.third thead tr:nth-child(2){
 table.third tbody tr:last-child{
     border-bottom: 2px solid orangered;
 }
+@media only screen and (max-width: 425px) {
+    th td {
+        display: block;
+    }
+    thead, td number{
+        display: none;
+        padding: 0;
+    }
+}
