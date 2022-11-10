@@ -38,7 +38,7 @@ table.second thead tr:first-child{
 table.third {
     border-collapse: collapse;
     vertical-align: top;
-    padding: .7em; 
+    padding: 1em; 
 }
 table.third thead{
     background-color: rgb(107, 251, 107);
